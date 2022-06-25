@@ -5,7 +5,7 @@
   --light: #F2F2F2;
   --dark: #2C3E50;
 }
-
+.circular--square { border-radius: 50%; }
 #spinner {
   opacity: 0;
   visibility: hidden;
